@@ -32,3 +32,24 @@ nav {
   justify-content: center;
   width: 1250px;
 }
+
+.primeiras-noticias {
+  display: flex;
+}
+
+.noticia-mais-foto img {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+}
+
+.segundas-noticias {
+  display: flex;
+}
+
+.segundas-noticias img {
+  width: 240px;
+  height: 128px;
+
+  border-radius: 12px;
+}
