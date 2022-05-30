@@ -191,4 +191,12 @@ p {
     flex-direction: column;
   }
 
+  .primeira-coluna-noticias {
+    padding: 0;
+  }
+
+  .segunda-coluna-noticias {
+    padding: 0;
+  }
+
 }
